@@ -1,0 +1,13 @@
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\bin\Debug\System Info.exe.config
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System_Info.Form1.resources
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System_Info.Loading.resources
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System_Info.Resources.resources
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System_Info.SplashScreen1.resources
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System Info.vbproj.GenerateResource.Cache
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System Info.xml
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\bin\Debug\System Info.exe
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\bin\Debug\System Info.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\bin\Debug\System Info.xml
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System Info.exe
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System Info.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\System Info\System Info\obj\Debug\System Info.vbprojResolveAssemblyReference.cache
